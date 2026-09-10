@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bluudud-X/BLUUGUI/refs/heads/main/BLUUGUI%20V.4.lua"))()
